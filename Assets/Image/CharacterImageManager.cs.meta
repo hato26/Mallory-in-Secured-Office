@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 250c3dcfe11b4434889c0344d4c39d9f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - malloryEmotionsHappy: {instanceID: 0}
+  - malloryEmotionsAnger: {instanceID: 0}
+  - malloryEmotionsBlue: {instanceID: 0}
+  - malloryEmotionsExcited: {instanceID: 0}
+  - malloryEmotionsSurprise: {instanceID: 0}
+  - malloryEmotionsExclamation: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
