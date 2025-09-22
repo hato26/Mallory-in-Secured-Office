@@ -1,4 +1,4 @@
-## ゲームタイトル『Mallory in secured office』について
+## ゲームタイトル『Mallory in Secured Office』について
 
 ### cloneでの所得方法
 - git clone https://github.com/hato26/Mallory-in-Secured-Office.git
