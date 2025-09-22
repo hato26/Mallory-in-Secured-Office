@@ -1,4 +1,7 @@
-## ゲームタイトル『Mallory in secured office』の設定について
+## ゲームタイトル『Mallory in secured office』について
+
+### cloneでの所得方法
+- git clone https://github.com/hato26/Mallory-in-Secured-Office.git
 
 ### Unity project
 - Version : 2022.3.11f1
